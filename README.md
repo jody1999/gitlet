@@ -8,3 +8,8 @@ Branches, head, master(pointer)
 //focus on storing and retrieving the information
 methods:
 initiate, add commit, rm, log, global-log, find, status, checkout, branch, rm-branch,reset, merge
+
+
+# bearmap
+codes for bearmap, using java
+requiring data of photo and street nodes
